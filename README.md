@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://media.tenor.com/nm5MfI8CI50AAAAi/raibow-happy.gif" width="50" height="50"/>Hi 👋, I'm Ryder<img src = "https://media.tenor.com/Mdne7ccvTJMAAAAi/banana-cheerer.gif" width="50" height ="50"/></h1>
+<h1 align="center">Hi 👋, I'm Ryder</h1>
 <h3 align="center">From VietNam, On roading to become Moblie Developer</h3>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
