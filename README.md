@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Hieu, but u can call me, Ryder</h1>
+<h1 align="center">Hi there, I'm Ryder</h1>
 <h3 align="center">From VietNam, On roading to become Moblie Developer</h3>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -32,19 +32,6 @@
 
 <br>
 <h2 align="center"> Where to find me ?</h2>
-<br>
-
-<div align="center">
-  <a href="https://www.facebook.com/mhiuzz23/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="mihhiu-facebook" />
-  </a>
-  <a href="https://www.instagram.com/bunreal_kohanh/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="bunreal-instagram" />
-  </a>
-  <a href="mailto:mhieusz.23.dkc@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="jackphat-email" />
-  </a>
-</div>
 
 <br>
 <br>
