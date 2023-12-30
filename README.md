@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ryder</h1>
+<h1 align="center">Hi there, I'm Hieu, but u can call me, Ryder</h1>
 <h3 align="center">From VietNam, On roading to become Moblie Developer</h3>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -24,7 +24,7 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <br>
-<h2 align="center">☀️ GitHub Stats 🌙</h2>
+<h2 align="center">GitHub Stats 🐧 </h2>
 
 <br>
 <div align=center>
@@ -37,7 +37,7 @@
 </div>
 
 <br>
-<h2 align="center">🌝 Where to find me 🌝</h2>
+<h2 align="center"> Where to find me ?</h2>
 <br>
 
 <div align="center">
@@ -61,7 +61,7 @@
 
 <p>
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/mhiuzz23/" target="_blank">https://www.facebook.com/mhiuzz23/</a></strong>
+  <strong>🔗 Contact Facebook: <a href="https://www.facebook.com/mhiuzz23/" target="_blank">https://www.facebook.com/mhiuzz23/</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:mhieusz.23.dkc@gmail.com" target="_top">mhieusz.23.dkc@gmail.com</a></strong>
+  <strong>📧 Contact Email: <a href="mailto:mhieusz.23.dkc@gmail.com" target="_top">mhieusz.23.dkc@gmail.com</a></strong>
 </p>
