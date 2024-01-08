@@ -2,7 +2,7 @@
 
 ### 💻 Coding stats
 
-![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/5kiur.gif) ![Simon's GitHub Stats](https://github-readme-stats-obu2qdcs2.vercel.app/api?username=simonpham) ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/6kiur.gif)
+![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/5kiur.gif) ![CamenRyder's GitHub Stats](https://github-readme-stats-obu2qdcs2.vercel.app/api?username=CamenRyder) ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/6kiur.gif)
 
 ### 📱 See my apps on
 
