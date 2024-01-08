@@ -1,48 +1,40 @@
+## WELCOME TO MY PROFILE 😊
 
-<h1 align="center">Hi there, I'm Ryder</h1>
-<h3 align="center">From VietNam, On roading to become Moblie Developer</h3>
+### 💻 Coding stats
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
+![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/5kiur.gif) ![Simon's GitHub Stats](https://github-readme-stats-obu2qdcs2.vercel.app/api?username=simonpham) ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/6kiur.gif)
 
-<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
+### 📱 See my apps on
 
-<span><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="mysql" height="25" /></span>
+- [App Store](https://apps.apple.com/ge/developer/cuong-pham/id1633011944) 🍎 [Little Corner: Daily Journal](https://apps.apple.com/ge/app/little-corner-daily-journal/id1633011942)
+- [Play Store](https://play.google.com/store/apps/dev?id=8748015601074315583) 🤖 [Little Corner: Daily Journal](https://play.google.com/store/apps/details?id=com.github.simonpham.littlecorner) • [Media Converter Pro](https://play.google.com/store/apps/details?id=com.github.khangnt.mcp) • [DevTiles: Developer Quick Settings](https://play.google.com/store/apps/details?id=com.github.simonpham.devtiles)
 
-&nbsp;
-<span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java logo" title="Java" height="25" /></span>
+### 📘 Latest blog posts
 
-&nbsp;
-<span><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter logo" title="flutter" height="25" /></span>
-&nbsp;
+<!-- BLOG-POST-LIST:START -->
+- [Store key-value data in Flutter using hive - but easier](https://dev.to/simonpham/store-key-value-data-in-flutter-using-hive-but-easier-4n0n)
+- [How to fix Ubuntu NVIDIA driver is not loaded](https://dev.to/simonpham/how-to-fix-ubuntu-nvidia-driver-is-not-loaded-2ipp)
+- [Using SharedPreferences in Flutter effortlessly [UPDATED]](https://dev.to/simonpham/using-sharedpreferences-in-flutter-effortlessly-3e29)
+<!-- BLOG-POST-LIST:END -->
 
-<br>
-<h2 align="center">GitHub Stats 🐧 </h2>
+### 💬  What I'm currently doing 
 
-<br>
-<div align=center>
-  <a href="#" title="Ryder">
-    <img width="340" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamenRyder&layout=compact&theme=dracula&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="CamenRyder">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=CamenRyder&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
 
-<br>
-<h2 align="center"> Where to find me ?</h2>
+<!--START_SECTION:waka-->
 
-<br>
-<br>
+```txt
+Total Time: 152 hrs 45 mins
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CamenRyder&label=Profile%20views&color=0e75b6&style=flat" alt="Ryder" /> </p>
+Dart                          30 hrs 11 mins  🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🦊🐾🐾🐾🐾   85.94 %
+Java                          9 hrs 03 mins   🦊🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   06.26 %
+Javascript                    5 hrs 50 mins   🦊🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   03.83 %
+textmate                      1 hr 14 mins    🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   00.81 %
+JSON                          1 hr 11 mins    🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   00.78 %
+YAML                          1 hr 2 mins     🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   00.68 %
+CSV/TSV                       43 mins         🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   00.48 %
+Application Resource Bundle   22 mins         🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   00.25 %
+Git                           18 mins         🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   00.20 %
+Swift                         12 mins         🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾   00.14 %
+```
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CamenRyder&theme=onedark" alt="jackphat" /></a> </p>
-
-<p>
-  <br>
-  <strong>🔗 Contact Facebook: <a href="https://www.facebook.com/mhiuzz23/" target="_blank">https://www.facebook.com/mhiuzz23/</a></strong>
-  <br>
-  <strong>📧 Contact Email: <a href="mailto:mhieusz.23.dkc@gmail.com" target="_top">mhieusz.23.dkc@gmail.com</a></strong>
-</p>
+<!--END_SECTION:waka-->
